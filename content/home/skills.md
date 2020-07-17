@@ -13,24 +13,18 @@ subtitle = ""
 # Add/remove as many `[[feature]]` blocks below as you like.
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-
-[[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "Intermediate"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "code-branch"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "Intermediate"  
+  name = "Git"
+  description = "Intermediate" 
   
 [[feature]]
-  icon = "snake"
+  icon = "dice"
   icon_pack = "fas"
-  name = "Python 3+"
-  description = "Advanced"
+  name = "Data Science"
+  description = "Intermediate" 
   
 [[feature]]
   icon = "bezier-curve"
@@ -45,9 +39,15 @@ subtitle = ""
   description = "Advanced"
   
 [[feature]]
-  icon = "border-none"
+  icon = "database"
   icon_pack = "fas"
-  name = "Algorithms"
+  name = "SQL"
+  description = "Intermediate"
+  
+[[feature]]
+  icon = "code"
+  icon_pack = "fas"
+  name = "Programming"
   description = "Advanced"
   
 [[feature]]
