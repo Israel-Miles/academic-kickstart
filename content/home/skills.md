@@ -18,19 +18,43 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "Intermediate"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  description = "Intermediate"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "snake"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Python 3+"
+  description = "Advanced"
+  
+[[feature]]
+  icon = "bezier-curve"
+  icon_pack = "fas"
+  name = "Data Structures"
+  description = "Advanced"
+  
+[[feature]]
+  icon = "border-none"
+  icon_pack = "fas"
+  name = "Algorithms"
+  description = "Advanced"
+  
+[[feature]]
+  icon = "border-none"
+  icon_pack = "fas"
+  name = "Algorithms"
+  description = "Advanced"
+  
+[[feature]]
+  icon = "broom"
+  icon_pack = "fas"
+  name = "Harry Potter Knowledge"
+  description = "Expert"
 
 # Uncomment to use emoji icons.
 # [[feature]]
