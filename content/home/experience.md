@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "Talagent"
   company_url = ""
   location = "Boulder, CO"
-  date_start = "2020-05"
-  date_end = "2020-08"
+  date_start = "2020-05-01"
+  date_end = "2020-08-01"
   description = """
   Responsibilities include:
   
@@ -37,8 +37,8 @@ date_format = "Jan 2006"
   company = "Dish Network"
   company_url = ""
   location = "Denver, CO"
-  date_start = "2019-05"
-  date_end = "2019-08"
+  date_start = "2019-05-01"
+  date_end = "2019-08-01"
   description = """Taught electronic engineering and researched semiconductor physics."""
   
 [[experience]]
@@ -46,8 +46,8 @@ date_format = "Jan 2006"
   company = "Webroot"
   company_url = ""
   location = "Broomfield, CO"
-  date_start = "2018-05"
-  date_end = "2018-08"
+  date_start = "2018-05-01"
+  date_end = "2018-08-01"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
