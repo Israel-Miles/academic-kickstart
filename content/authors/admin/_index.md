@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Student in Computer Science
+role: Research Fellow in Computer Science & Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -30,12 +30,12 @@ education:
   - course: Candidate for Doctor of Philosophy (PhD) in Computer Science
     institution: Syracuse University
     year: Expected 2025
-  - course: Minor in Applied Mathematics (Statistics Emphasis)
-    institution: University of Colorado Boulder
-    year: 2020
   - course: Bachelor of Science in Computer Science
     institution: University of Colorado Boulder
     year: 2020
+  - course: Minor in Applied Mathematics (Statistics Emphasis)
+    institution: University of Colorado Boulder
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
