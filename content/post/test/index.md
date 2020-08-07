@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Test"
+title: "How I Went From Cleaning Carpets to Writing Code"
 subtitle: ""
-summary: ""
+summary: "From riding in a van that caught fire four times, to a coding interview with nothing but a notebook and orange pen. This is how I got my first software engineering internship."
 authors: []
 tags: []
 categories: []
 date: 2020-08-06T18:03:28-06:00
 lastmod: 2020-08-06T18:03:28-06:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
